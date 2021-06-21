@@ -3,3 +3,11 @@
 /.vs
 /SpinLockDemo/obj
 /SpinLockDemo/bin
+/TheMutexDemo/obj
+/TheMutexDemo/bin
+
+.fake
+.ionide
+/MixedLockDemo/obj
+/MixedLockDemo/bin
+/.vscode
