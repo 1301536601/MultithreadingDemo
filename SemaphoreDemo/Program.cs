@@ -33,17 +33,14 @@ namespace SemaphoreDemo
         {
             for (var i = 0; i < 6; ++i)
             {
-                var thread = new Thread(Work)
-                {
-                    IsBackground = true
-                };
+                var thread = new Thread(Work);
                 thread.Start();
             }
             while (true)
             {
                 //执行增加数量，增加值为5
                 _sema.Release(5);
-                Thread.Sleep(1000);
+                Thread.Sleep(1000 * 10);
             }
         }
 
