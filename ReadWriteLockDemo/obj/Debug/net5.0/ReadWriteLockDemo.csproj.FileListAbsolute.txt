@@ -1,0 +1,16 @@
+f:\私人项目\MultithreadingDemo\ReadWriteLockDemo\obj\Debug\net5.0\ReadWriteLockDemo.csproj.AssemblyReference.cache
+f:\私人项目\MultithreadingDemo\ReadWriteLockDemo\obj\Debug\net5.0\ReadWriteLockDemo.GeneratedMSBuildEditorConfig.editorconfig
+f:\私人项目\MultithreadingDemo\ReadWriteLockDemo\obj\Debug\net5.0\ReadWriteLockDemo.AssemblyInfoInputs.cache
+f:\私人项目\MultithreadingDemo\ReadWriteLockDemo\obj\Debug\net5.0\ReadWriteLockDemo.AssemblyInfo.cs
+f:\私人项目\MultithreadingDemo\ReadWriteLockDemo\obj\Debug\net5.0\ReadWriteLockDemo.csproj.CoreCompileInputs.cache
+F:\私人项目\MultithreadingDemo\ReadWriteLockDemo\bin\Debug\net5.0\ReadWriteLockDemo.exe
+F:\私人项目\MultithreadingDemo\ReadWriteLockDemo\bin\Debug\net5.0\ReadWriteLockDemo.deps.json
+F:\私人项目\MultithreadingDemo\ReadWriteLockDemo\bin\Debug\net5.0\ReadWriteLockDemo.runtimeconfig.json
+F:\私人项目\MultithreadingDemo\ReadWriteLockDemo\bin\Debug\net5.0\ReadWriteLockDemo.runtimeconfig.dev.json
+F:\私人项目\MultithreadingDemo\ReadWriteLockDemo\bin\Debug\net5.0\ReadWriteLockDemo.dll
+F:\私人项目\MultithreadingDemo\ReadWriteLockDemo\bin\Debug\net5.0\ref\ReadWriteLockDemo.dll
+F:\私人项目\MultithreadingDemo\ReadWriteLockDemo\bin\Debug\net5.0\ReadWriteLockDemo.pdb
+F:\私人项目\MultithreadingDemo\ReadWriteLockDemo\obj\Debug\net5.0\ReadWriteLockDemo.dll
+F:\私人项目\MultithreadingDemo\ReadWriteLockDemo\obj\Debug\net5.0\ref\ReadWriteLockDemo.dll
+F:\私人项目\MultithreadingDemo\ReadWriteLockDemo\obj\Debug\net5.0\ReadWriteLockDemo.pdb
+F:\私人项目\MultithreadingDemo\ReadWriteLockDemo\obj\Debug\net5.0\ReadWriteLockDemo.genruntimeconfig.cache

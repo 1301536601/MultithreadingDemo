@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MixedLockDemo", "MixedLockD
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SemaphoreDemo", "SemaphoreDemo\SemaphoreDemo.csproj", "{06786EC5-A437-4457-B5F8-12C60FF99A15}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadWriteLockDemo", "ReadWriteLockDemo\ReadWriteLockDemo.csproj", "{A886CD2B-D144-46EF-87EB-AC969B25033E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{06786EC5-A437-4457-B5F8-12C60FF99A15}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{06786EC5-A437-4457-B5F8-12C60FF99A15}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{06786EC5-A437-4457-B5F8-12C60FF99A15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A886CD2B-D144-46EF-87EB-AC969B25033E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A886CD2B-D144-46EF-87EB-AC969B25033E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A886CD2B-D144-46EF-87EB-AC969B25033E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A886CD2B-D144-46EF-87EB-AC969B25033E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
